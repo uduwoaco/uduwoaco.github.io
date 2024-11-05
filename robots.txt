@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uduwoaco.github.io/COx/sitemap_index.txt
+Sitemap: https://uduwoaco.github.io/IkY/sitemap_index.txt
+Sitemap: https://uduwoaco.github.io/aZm/sitemap_index.txt
+Sitemap: https://uduwoaco.github.io/igI/sitemap_index.txt
